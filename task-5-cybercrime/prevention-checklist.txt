@@ -1,0 +1,20 @@
+Stay Safe Online
+
+As you navigate your B.Tech journey and manage more of your life digitally—from exam fees to internship applications—staying secure is as important as your grades.
+Here is a targeted 'Stay Safe Online' Checklist designed specifically for the digital landscape in India.
+ 'Stay Safe Online' Checklist for College Students
+* 1. Secure Your UPI Transactions: Never enter your UPI PIN to receive money. A PIN is only required to send money or check your balance. If someone asks you to "Scan a QR" or "Enter PIN" to get a refund, it is a scam.
+* 2. Verify 'Official' Callers: If you receive a call from someone claiming to be from your bank, the electricity board, or a courier service (like Delivery or BlueDart) asking for an OTP, hang up. Real officials will never ask for your OTP or password over the phone.
+* 3. Use App-Specific Locks: Beyond your phone’s main lock, use the built-in "App Lock" feature for financial apps like GPay, PhonePe, and Paytm to add an extra layer of defense if your phone is snatched or borrowed.
+* 4. Practice 'Social Media Hygiene': Avoid posting photos of your University ID card, hall tickets, or internship offer letters. These contain sensitive data like your Roll Number, DOB, and Aadhaar details that can be used for identity theft.
+* 5. Beware of 'Free' Public Wi-Fi: Avoid logging into your bank accounts or student portals while connected to free Wi-Fi at railway stations or cafes. Use a mobile hotspot or a VPN if you must access sensitive sites.
+* 6. Audit Your 'Forwarded' Messages: Before clicking a link in a WhatsApp forward—even from a batchmate or family group—check if it's a "Lookalike URL" (e.g., amozon.in instead of amazon.in). These are often phishing traps for "Free Recharge" or "Scholarship" scams.
+* 7. Enable Two-Factor Authentication (2FA): Turn on 2FA for your primary Gmail and LinkedIn accounts. This ensures that even if someone gets your password during a campus placement drive or through a shared computer, they cannot log in.
+* 8. Manage App Permissions: Regularly check which apps have access to your Microphone, Camera, and Contacts. Many "Free PDF Converter" or "Photo Editor" apps often request unnecessary permissions to harvest your data.
+
+ How to Report a Cybercrime in India
+If you or a friend falls victim to a scam, speed is critical, especially for financial fraud where "Golden Hour" reporting can help freeze the stolen funds.
+* Immediate Helpline: Call 1930 (National Cyber Crime Helpline) immediately to report financial fraud.
+* Official Portal: Visit cybercrime.gov.in to file a formal complaint.
+* Local Action: Report the incident to the Cyber Cell of your local police station in Uttar Pradesh.
+
